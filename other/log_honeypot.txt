@@ -1,0 +1,217 @@
+#################### PenTBox Honeypot log
+
+  HONEYPOT ACTIVATED ON PORT 1111 (2020-03-31 00:45:11 +0530)
+
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:43416 (2020-03-31 00:45:21 +0530)
+ -----------------------------
+GET / HTTP/1.1
+Host: localhost:1111
+Connection: keep-alive
+DNT: 1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36
+Sec-Fetch-Dest: document
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+Cookie: _ga=GA1.1.1580453357.1585589657; _gid=GA1.1.395744944.1585589657
+
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:43420 (2020-03-31 00:45:24 +0530)
+ -----------------------------
+GET / HTTP/1.1
+Host: localhost:1111
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+DNT: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36
+Sec-Fetch-Dest: document
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: navigate
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+Cookie: _ga=GA1.1.1580453357.1585589657; _gid=GA1.1.395744944.1585589657
+
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:43424 (2020-03-31 00:45:32 +0530)
+ -----------------------------
+GET / HTTP/1.1
+Host: localhost:1111
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+DNT: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36
+Sec-Fetch-Dest: document
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: navigate
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+Cookie: _ga=GA1.1.1580453357.1585589657; _gid=GA1.1.395744944.1585589657
+
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:43428 (2020-03-31 00:45:40 +0530)
+ -----------------------------
+GET / HTTP/1.1
+Host: localhost:1111
+Connection: keep-alive
+Cache-Control: max-age=0
+DNT: 1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36
+Sec-Fetch-Dest: document
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+Cookie: _ga=GA1.1.1580453357.1585589657; _gid=GA1.1.395744944.1585589657
+
+#################### PenTBox Honeypot log
+
+  HONEYPOT ACTIVATED ON PORT 4444 (2020-03-31 00:46:06 +0530)
+
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:44514 (2020-03-31 00:46:13 +0530)
+ -----------------------------
+GET / HTTP/1.1
+Host: localhost:4444
+Connection: keep-alive
+DNT: 1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36
+Sec-Fetch-Dest: document
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+Cookie: _ga=GA1.1.1580453357.1585589657; _gid=GA1.1.395744944.1585589657
+
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:44534 (2020-03-31 00:46:59 +0530)
+ -----------------------------
+GET / HTTP/1.1
+Host: localhost:4444
+Connection: keep-alive
+DNT: 1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36
+Sec-Fetch-Dest: document
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:44538 (2020-03-31 00:47:00 +0530)
+ -----------------------------
+GET /robots.txt HTTP/1.1
+Host: localhost:4444
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36
+DNT: 1
+Sec-Fetch-Dest: empty
+Accept: */*
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: no-cors
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:44542 (2020-03-31 00:47:02 +0530)
+ -----------------------------
+GET / HTTP/1.1
+Host: localhost:4444
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+DNT: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36
+Sec-Fetch-Dest: document
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: navigate
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:44550 (2020-03-31 00:47:10 +0530)
+ -----------------------------
+GET / HTTP/1.1
+Host: localhost:4444
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+DNT: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36
+Sec-Fetch-Dest: document
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: navigate
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+#################### PenTBox Honeypot log
+
+  HONEYPOT ACTIVATED ON PORT 444 (2020-03-31 19:19:45 +0530)
+
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:58204 (2020-03-31 19:19:59 +0530)
+ -----------------------------
+GET / HTTP/1.1
+Host: localhost:444
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/80.0.3987.149 Chrome/80.0.3987.149 Safari/537.36
+Sec-Fetch-Dest: document
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:58208 (2020-03-31 19:20:01 +0530)
+ -----------------------------
+GET / HTTP/1.1
+Host: localhost:444
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/80.0.3987.149 Chrome/80.0.3987.149 Safari/537.36
+Sec-Fetch-Dest: document
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: navigate
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+
+  INTRUSION ATTEMPT DETECTED! from 127.0.0.1:58212 (2020-03-31 19:20:08 +0530)
+ -----------------------------
+GET / HTTP/1.1
+Host: localhost:444
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/80.0.3987.149 Chrome/80.0.3987.149 Safari/537.36
+Sec-Fetch-Dest: document
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: navigate
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
