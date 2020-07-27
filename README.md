@@ -24,7 +24,7 @@ A firewall is also use to secure networks.
 
 https://drive.google.com/file/d/1Snguvl7UbLJF1VzgnqYN1AxyzvYl-ZSk/view?usp=sharing    - A small overview.
 
-
+Also don't forget to go through the PDF for configuring in your own way.
 
 
 
